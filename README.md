@@ -8,6 +8,8 @@ First, install dependencies:
 npm install 
 ```
 
+Add your OpenAI API key to the `.env` file at root. 
+
 Next run 
 
 ```bash
